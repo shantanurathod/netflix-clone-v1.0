@@ -29,6 +29,17 @@ const Nav = () => {
         src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
         alt="Avatar Logo"
       />
+      <a
+        href="https://github.com/shantanurathod/netflix-clone-v1.0"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          className="nav__github"
+          src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+          alt="github"
+        />
+      </a>
     </div>
   );
 };

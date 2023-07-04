@@ -27,3 +27,15 @@
     width: 30px;
     object-fit: contain;
 }
+
+.nav__github{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 20px;
+    width: 50px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    z-index: 3;
+}
